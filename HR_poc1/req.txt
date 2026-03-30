@@ -1,0 +1,3 @@
+numpy
+scipy
+neurokit2 (highly recommended)
